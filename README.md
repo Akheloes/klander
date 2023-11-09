@@ -8,4 +8,5 @@
    - a summary on the team-functionning (**3 mins**);
    - your contributions (**3 mins**)?
    - what do you feel could've been ameliorated (**1-2 mins**) ?
-   - a positive you'll keep from that experience :) (**1-2 mins**)?
+   - a positive you'll keep from that experience :) (**1-2 mins**) ?
+   - You can asks us too, now or later (there's a song) !
