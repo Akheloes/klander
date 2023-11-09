@@ -2,7 +2,6 @@ import { User, UserRepository, UserService } from './UserService';
 
 class MockUserRepository implements UserRepository {
     getUserById(userId: string): Promise<User> {
-        throw Error
     }
 }
 
